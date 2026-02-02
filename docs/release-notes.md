@@ -4,7 +4,7 @@
 
 Changes:
 
-- Require Rust ≥ 1.56.0
+- Require Rust ≥ 1.68.0
 - Add release notes doc
 
 
